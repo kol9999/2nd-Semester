@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/viking/CLionProjects/Lab 7/CircularBuffer.h
+Iterator.h
+C:/Users/viking/CLionProjects/Lab 7/Iterator.h
+
+C:/Users/viking/CLionProjects/Lab 7/Iterator.h
+iostream
+-
+algorithm
+-
+iterator
+-
+string
+-
+
+C:/Users/viking/CLionProjects/Lab 7/main.cpp
+CircularBuffer.h
+C:/Users/viking/CLionProjects/Lab 7/CircularBuffer.h
+

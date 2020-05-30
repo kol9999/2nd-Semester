@@ -1,0 +1,3 @@
+C:/Users/viking/CLionProjects/Lab 7/cmake-build-debug/CMakeFiles/untitled1.dir
+C:/Users/viking/CLionProjects/Lab 7/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/viking/CLionProjects/Lab 7/cmake-build-debug/CMakeFiles/rebuild_cache.dir
